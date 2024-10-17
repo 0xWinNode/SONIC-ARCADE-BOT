@@ -19,10 +19,10 @@
 
 ### Auto Install & Run Bot For VPS
 ```
-bash <(curl -s https://data.0xwinnode.xyz/file/uploads/sonic.sh)
+bash <(curl -s https://data.zamzasalim.xyz/file/uploads/sonic.sh)
 ```
 ### Auto Install & Run Bot For Termux
 ```
-bash <(curl -s https://data.0xwinnode.xyz/file/uploads/sonic-mux.sh)
+bash <(curl -s https://data.zamzasalim.xyz/file/uploads/sonic-mux.sh)
 ```
 # Terima Kasih
